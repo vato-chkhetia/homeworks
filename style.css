@@ -1,0 +1,37 @@
+.box{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: 1px solid black;
+} 
+a{
+    color:red;
+    text-decoration: none;
+    font-weight: bold;    
+}
+table{
+    border-collapse: collapse;
+}
+a:hover{
+    background-color: yellow;
+}
+li{
+    display: inline;
+}
+a {
+    outline: none;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 1%;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+    width: 31%;
+    color: white;
+    background-color: green;
+
+}
+
+a:hover{
+    background: blue;
+}

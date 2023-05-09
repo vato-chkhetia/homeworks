@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+    color: rgb(0, 193, 129);
+}
+li:hover{
+    color: blueviolet;
+    text-align: inherit;
+    
+}
+html{
+    background-color: aqua;
+    background-position: 10px;
+    background-attachment: fixed;
+   background-size: cover;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    background-color: red;
+    height: 90px;
+    border: 5px solid rgb(255, 0, 0);
+    box-sizing: border-box;
+}
+ol{
+    text-align: center;
+
+}
+details{
+    text-align: center;
+}
+.square{
+text-align: left;
+background-color: brown;
+color: red;
+border: 3px solid black;
+}
+.circle{
+    background-color: brown;
+    text-align: center;
+
+}
+.bruh{
+    background-color: red;
+    height: 120px;
+    width: 70px;
+    background-position: center right;
+    background-repeat: repeat-x;
+}
+li{
+    break-inside: initial;
+}
+.br{
+    height: 1000px;
+    width: 1000px;
+    border-radius: 500px;
+    background-color: black;
+    outline: 10px solid white;
+}

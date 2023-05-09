@@ -1,0 +1,19 @@
+
+*{ background-image: url(323429708_1377377253202374_8488577418025243207_n.jpg);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+
+li{
+    background-color: rgb(235, 40, 40);
+    background: rgb(red, green, blue);
+    background: linear-gradient(rgb(4, 202, 139));
+}
+li:hover{
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+span b{
+    color: red;
+}
